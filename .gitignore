@@ -58,5 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-grayboxing_final/Library/
-grayboxing_final/temp/
+gray_boxing_final/Library/
+gray_boxing_final/temp/
