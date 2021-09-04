@@ -893,3 +893,11 @@ Received Import Request.
 Start importing Assets/StarterAssets/Environment/Art/Models/Structure_Mesh.fbx using Guid(d0a9bfb4b5f28174884e89dd76563ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe728441f8bc159b90b78c102fdf9fc') in 0.022873 seconds 
   Import took 0.025972 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1264.311153 seconds.
+  path: Assets/StarterAssets/Readme.asset
+  artifactKey: Guid(4181bfe715a83e843b7538d750dc57cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Readme.asset using Guid(4181bfe715a83e843b7538d750dc57cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13167d1a8141c6a91ea2a8d07c3902f8') in 0.136963 seconds 
+  Import took 0.148082 seconds .
+
